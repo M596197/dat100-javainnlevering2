@@ -4,7 +4,7 @@ public class Tabeller {
 
 	public static void main(String[] args) {
 	int[] tabell1 = { 1, 4, 6, };
-	int[] tabell2 = { 1 };
+	int[] tabell2 = { 1 }; 
 	int[] tabell4 = {9,8,5,3,2,1,6,4};
 	System.out.println("Oppgave a - Skriv ut");
 	skrivUt(tabell1);skrivUt(tabell2);skrivUt(tabell4);
